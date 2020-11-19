@@ -1,16 +1,31 @@
-### Hi there 👋
+# Jackson Machado
 
-<!--
-**jacksjm/jacksjm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/jacksjm)](https://github.com/jacksjm)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jackson-machado-21235484/)](://www.linkedin.com/in/jackson-machado-21235484/)
+[![Whatsapp Badge](https://img.shields.io/badge/-Whatsapp-4CA143?style=flat-square&labelColor=4CA143&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=55+47+999326658&text=Hello!)](https://api.whatsapp.com/send?phone=55+47+999326658&text=Hello!)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jacpts@gmail.com)](mailto:jacpts@gmail.com)
 
+## Hi there 👋
+I'm Jackson Machado, I currently work like Software Coordinator (Software Engineer) but I'm openly a lover of development. Well, I'm dev teacher too.
+
+## 👨🏻‍💻 About me 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’am currently working like Software Coordinator, on TypeScript ecosystem, specifically on Node.js, GraphQL, React, Apollo, React Native and Flutter (ok it's Dart)
+- 🌱 I’m currently learning Haskell and other functional languages
+- 💬 Ask me about weather and other random stuffs
+- 🎓 &nbsp; Master's student at @udesc (Applied Computing)
+- 💼 &nbsp; Software Engineer at @nginformatica
+- 💼 &nbsp; Teacher at @senacsc
+- ⚡ Fun fact: Usually people call me by my nickname (Jaja)
+
+## 🛠 Tech Stack
+
+- 💻 &nbsp; C | C++ | Java | C# | AdvPL | Python
+- 🌐 &nbsp; HTML | CSS | JavaScript | TypeScript | Bootstrap | JQuery | NodeJS | GraphQL | Apollo | React | ReactNative | Angular | Flutter
+- 🛢 &nbsp; MySQL | Postgresql | Oracle | DB2 | MSSQL
+- 🔧 &nbsp; Visual Studio code | Git
+
+[![jacksjm's github stats](https://github-readme-stats.vercel.app/api?username=jacksjm&show_icons=true&hide=["contribs","issues"])](https://github.com/jacksjm)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jacksjm&show_icons=true)](https://github.com/KaduFloresta/github-readme-stats)
