@@ -13,18 +13,22 @@ Here are some ideas to get you started:
 
 - 🔭 I’am currently working like Software Coordinator, on TypeScript ecosystem, specifically on Node.js, GraphQL, React, Apollo, React Native and Flutter (ok it's Dart)
 - 🌱 I’m currently learning Haskell and other functional languages
+- :rainbow: I'm interests on DevOps (tools, lifecycle and culture)
 - 💬 Ask me about weather and other random stuffs
 - 🎓 Master's student at @udesc (Applied Computing)
 - 💼 Software Engineer at @nginformatica
 - 💼 Teacher at @senacsc
 - ⚡ Fun fact: Usually people call me by my nickname (Jaja)
+- :baby: Bernardo father's
+- :beers: Beer collector (please, feel free to send me one)
 
 ## 🛠 Tech Stack
 
-- 💻 &nbsp; C | C++ | Java | C# | AdvPL | Python
-- 🌐 &nbsp; HTML | CSS | JavaScript | TypeScript | Bootstrap | JQuery | NodeJS | GraphQL | Apollo | React | ReactNative | Angular | Flutter
-- 🛢 &nbsp; MySQL | Postgresql | Oracle | DB2 | MSSQL
-- 🔧 &nbsp; Visual Studio code | Git
+- 💻 C | C++ | Java | C# | AdvPL | Python | Bash
+- 🌐 HTML | CSS | JavaScript | TypeScript | Bootstrap | JQuery | NodeJS | Express | TypeORM | GraphQL | Apollo | React | ReactNative | Angular | Flutter
+- 🛢 MySQL | Postgresql | Oracle | DB2 | MSSQL
+- 🔧 Visual Studio Code | Git
+- :building_construction: Ansilbe | Terraform (a little bit)
 
 [![jacksjm's github stats](https://github-readme-stats.vercel.app/api?username=jacksjm&show_icons=true&hide=["contribs","issues"])](https://github.com/jacksjm)
 
