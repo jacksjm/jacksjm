@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 - 💼 Software Engineer at @nginformatica
 - 💼 Teacher at @senacsc
 - ⚡ Fun fact: Usually people call me by my nickname (Jaja)
-- :baby: Bernardo father's
+- :baby: Bernardo and Aurora father's
 - :beers: Beer collector (please, feel free to send me one)
 
 ## 🛠 Tech Stack
